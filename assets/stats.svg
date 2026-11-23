@@ -10,25 +10,25 @@
 <g class="card" style="animation-delay:0.15s">
   <rect x="24" y="18" width="270" height="114" rx="18" fill="#0f172a" stroke="#a78bfa" stroke-opacity=".55"/>
   <rect x="24" y="18" width="270" height="114" rx="18" fill="none" stroke="#a78bfa" stroke-width="2" class="shine" style="animation-delay:0.75s"/>
-  <text x="159" y="82" text-anchor="middle" class="num" fill="#a78bfa">23</text>
+  <text x="159" y="82" text-anchor="middle" class="num" fill="#a78bfa">35</text>
   <text x="159" y="112" text-anchor="middle" class="lbl">repos</text>
 </g>
 <g class="card" style="animation-delay:0.33s">
   <rect x="318" y="18" width="270" height="114" rx="18" fill="#0f172a" stroke="#22d3ee" stroke-opacity=".55"/>
   <rect x="318" y="18" width="270" height="114" rx="18" fill="none" stroke="#22d3ee" stroke-width="2" class="shine" style="animation-delay:0.93s"/>
-  <text x="453" y="82" text-anchor="middle" class="num" fill="#22d3ee">7</text>
+  <text x="453" y="82" text-anchor="middle" class="num" fill="#22d3ee">9</text>
   <text x="453" y="112" text-anchor="middle" class="lbl">áreas</text>
 </g>
 <g class="card" style="animation-delay:0.51s">
   <rect x="612" y="18" width="270" height="114" rx="18" fill="#0f172a" stroke="#f472b6" stroke-opacity=".55"/>
   <rect x="612" y="18" width="270" height="114" rx="18" fill="none" stroke="#f472b6" stroke-width="2" class="shine" style="animation-delay:1.11s"/>
-  <text x="747" y="82" text-anchor="middle" class="num" fill="#f472b6">22</text>
+  <text x="747" y="82" text-anchor="middle" class="num" fill="#f472b6">25</text>
   <text x="747" y="112" text-anchor="middle" class="lbl">tips</text>
 </g>
 <g class="card" style="animation-delay:0.69s">
   <rect x="906" y="18" width="270" height="114" rx="18" fill="#0f172a" stroke="#34d399" stroke-opacity=".55"/>
   <rect x="906" y="18" width="270" height="114" rx="18" fill="none" stroke="#34d399" stroke-width="2" class="shine" style="animation-delay:1.29s"/>
-  <text x="1041" y="82" text-anchor="middle" class="num" fill="#34d399">17</text>
+  <text x="1041" y="82" text-anchor="middle" class="num" fill="#34d399">22</text>
   <text x="1041" y="112" text-anchor="middle" class="lbl">fuentes</text>
 </g>
 </svg>

@@ -26,29 +26,29 @@
 <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
 <line x1="600" y1="40" x2="600" y2="190" stroke="#a78bfa" class="flow" style="animation-delay:0.00s"/>
 <line x1="835" y1="60" x2="600" y2="190" stroke="#f472b6" class="flow" style="animation-delay:0.35s"/>
-<line x1="1007" y1="115" x2="600" y2="190" stroke="#34d399" class="flow" style="animation-delay:0.70s"/>
-<line x1="1070" y1="190" x2="600" y2="190" stroke="#60a5fa" class="flow" style="animation-delay:1.05s"/>
-<line x1="1007" y1="265" x2="600" y2="190" stroke="#fb923c" class="flow" style="animation-delay:1.40s"/>
-<line x1="835" y1="320" x2="600" y2="190" stroke="#facc15" class="flow" style="animation-delay:1.75s"/>
-<line x1="600" y1="340" x2="600" y2="190" stroke="#22d3ee" class="flow" style="animation-delay:2.10s"/>
-<line x1="365" y1="320" x2="600" y2="190" stroke="#a78bfa" class="flow" style="animation-delay:2.45s"/>
-<line x1="193" y1="265" x2="600" y2="190" stroke="#f472b6" class="flow" style="animation-delay:2.80s"/>
-<line x1="130" y1="190" x2="600" y2="190" stroke="#34d399" class="flow" style="animation-delay:3.15s"/>
-<line x1="193" y1="115" x2="600" y2="190" stroke="#60a5fa" class="flow" style="animation-delay:3.50s"/>
-<line x1="365" y1="60" x2="600" y2="190" stroke="#fb923c" class="flow" style="animation-delay:3.85s"/>
+<line x1="1007" y1="115" x2="600" y2="190" stroke="#e879f9" class="flow" style="animation-delay:0.70s"/>
+<line x1="1070" y1="190" x2="600" y2="190" stroke="#34d399" class="flow" style="animation-delay:1.05s"/>
+<line x1="1007" y1="265" x2="600" y2="190" stroke="#60a5fa" class="flow" style="animation-delay:1.40s"/>
+<line x1="835" y1="320" x2="600" y2="190" stroke="#fb923c" class="flow" style="animation-delay:1.75s"/>
+<line x1="600" y1="340" x2="600" y2="190" stroke="#facc15" class="flow" style="animation-delay:2.10s"/>
+<line x1="365" y1="320" x2="600" y2="190" stroke="#4ade80" class="flow" style="animation-delay:2.45s"/>
+<line x1="193" y1="265" x2="600" y2="190" stroke="#22d3ee" class="flow" style="animation-delay:2.80s"/>
+<line x1="130" y1="190" x2="600" y2="190" stroke="#a78bfa" class="flow" style="animation-delay:3.15s"/>
+<line x1="193" y1="115" x2="600" y2="190" stroke="#f472b6" class="flow" style="animation-delay:3.50s"/>
+<line x1="365" y1="60" x2="600" y2="190" stroke="#e879f9" class="flow" style="animation-delay:3.85s"/>
 <ellipse cx="600" cy="190" rx="330" ry="150" fill="url(#glow)" class="orb"/>
 <g class="node" style="animation-delay:0.00s"><circle cx="600" cy="40" r="7" fill="#a78bfa"/><circle cx="600" cy="40" r="7" fill="none" stroke="#a78bfa" class="ring" style="animation-delay:0.00s"/><text x="600" y="26" text-anchor="middle" class="lbl">skills</text></g>
 <g class="node" style="animation-delay:0.35s"><circle cx="835" cy="60" r="7" fill="#f472b6"/><circle cx="835" cy="60" r="7" fill="none" stroke="#f472b6" class="ring" style="animation-delay:0.35s"/><text x="835" y="46" text-anchor="middle" class="lbl">MCPs</text></g>
-<g class="node" style="animation-delay:0.70s"><circle cx="1007" cy="115" r="7" fill="#34d399"/><circle cx="1007" cy="115" r="7" fill="none" stroke="#34d399" class="ring" style="animation-delay:0.70s"/><text x="1007" y="101" text-anchor="middle" class="lbl">plugins</text></g>
-<g class="node" style="animation-delay:1.05s"><circle cx="1070" cy="190" r="7" fill="#60a5fa"/><circle cx="1070" cy="190" r="7" fill="none" stroke="#60a5fa" class="ring" style="animation-delay:1.05s"/><text x="1070" y="176" text-anchor="middle" class="lbl">CLI</text></g>
-<g class="node" style="animation-delay:1.40s"><circle cx="1007" cy="265" r="7" fill="#fb923c"/><circle cx="1007" cy="265" r="7" fill="none" stroke="#fb923c" class="ring" style="animation-delay:1.40s"/><text x="1007" y="289" text-anchor="middle" class="lbl">agentes</text></g>
-<g class="node" style="animation-delay:1.75s"><circle cx="835" cy="320" r="7" fill="#facc15"/><circle cx="835" cy="320" r="7" fill="none" stroke="#facc15" class="ring" style="animation-delay:1.75s"/><text x="835" y="344" text-anchor="middle" class="lbl">tips</text></g>
-<g class="node" style="animation-delay:2.10s"><circle cx="600" cy="340" r="7" fill="#22d3ee"/><circle cx="600" cy="340" r="7" fill="none" stroke="#22d3ee" class="ring" style="animation-delay:2.10s"/><text x="600" y="364" text-anchor="middle" class="lbl">diseño</text></g>
-<g class="node" style="animation-delay:2.45s"><circle cx="365" cy="320" r="7" fill="#a78bfa"/><circle cx="365" cy="320" r="7" fill="none" stroke="#a78bfa" class="ring" style="animation-delay:2.45s"/><text x="365" y="344" text-anchor="middle" class="lbl">video</text></g>
-<g class="node" style="animation-delay:2.80s"><circle cx="193" cy="265" r="7" fill="#f472b6"/><circle cx="193" cy="265" r="7" fill="none" stroke="#f472b6" class="ring" style="animation-delay:2.80s"/><text x="193" y="289" text-anchor="middle" class="lbl">QA</text></g>
-<g class="node" style="animation-delay:3.15s"><circle cx="130" cy="190" r="7" fill="#34d399"/><circle cx="130" cy="190" r="7" fill="none" stroke="#34d399" class="ring" style="animation-delay:3.15s"/><text x="130" y="214" text-anchor="middle" class="lbl">mobile</text></g>
-<g class="node" style="animation-delay:3.50s"><circle cx="193" cy="115" r="7" fill="#60a5fa"/><circle cx="193" cy="115" r="7" fill="none" stroke="#60a5fa" class="ring" style="animation-delay:3.50s"/><text x="193" y="101" text-anchor="middle" class="lbl">juegos</text></g>
-<g class="node" style="animation-delay:3.85s"><circle cx="365" cy="60" r="7" fill="#fb923c"/><circle cx="365" cy="60" r="7" fill="none" stroke="#fb923c" class="ring" style="animation-delay:3.85s"/><text x="365" y="46" text-anchor="middle" class="lbl">audio</text></g>
+<g class="node" style="animation-delay:0.70s"><circle cx="1007" cy="115" r="7" fill="#e879f9"/><circle cx="1007" cy="115" r="7" fill="none" stroke="#e879f9" class="ring" style="animation-delay:0.70s"/><text x="1007" y="101" text-anchor="middle" class="lbl">plugins</text></g>
+<g class="node" style="animation-delay:1.05s"><circle cx="1070" cy="190" r="7" fill="#34d399"/><circle cx="1070" cy="190" r="7" fill="none" stroke="#34d399" class="ring" style="animation-delay:1.05s"/><text x="1070" y="176" text-anchor="middle" class="lbl">CLI</text></g>
+<g class="node" style="animation-delay:1.40s"><circle cx="1007" cy="265" r="7" fill="#60a5fa"/><circle cx="1007" cy="265" r="7" fill="none" stroke="#60a5fa" class="ring" style="animation-delay:1.40s"/><text x="1007" y="289" text-anchor="middle" class="lbl">agentes</text></g>
+<g class="node" style="animation-delay:1.75s"><circle cx="835" cy="320" r="7" fill="#fb923c"/><circle cx="835" cy="320" r="7" fill="none" stroke="#fb923c" class="ring" style="animation-delay:1.75s"/><text x="835" y="344" text-anchor="middle" class="lbl">tips</text></g>
+<g class="node" style="animation-delay:2.10s"><circle cx="600" cy="340" r="7" fill="#facc15"/><circle cx="600" cy="340" r="7" fill="none" stroke="#facc15" class="ring" style="animation-delay:2.10s"/><text x="600" y="364" text-anchor="middle" class="lbl">diseño</text></g>
+<g class="node" style="animation-delay:2.45s"><circle cx="365" cy="320" r="7" fill="#4ade80"/><circle cx="365" cy="320" r="7" fill="none" stroke="#4ade80" class="ring" style="animation-delay:2.45s"/><text x="365" y="344" text-anchor="middle" class="lbl">video</text></g>
+<g class="node" style="animation-delay:2.80s"><circle cx="193" cy="265" r="7" fill="#22d3ee"/><circle cx="193" cy="265" r="7" fill="none" stroke="#22d3ee" class="ring" style="animation-delay:2.80s"/><text x="193" y="289" text-anchor="middle" class="lbl">QA</text></g>
+<g class="node" style="animation-delay:3.15s"><circle cx="130" cy="190" r="7" fill="#a78bfa"/><circle cx="130" cy="190" r="7" fill="none" stroke="#a78bfa" class="ring" style="animation-delay:3.15s"/><text x="130" y="214" text-anchor="middle" class="lbl">mobile</text></g>
+<g class="node" style="animation-delay:3.50s"><circle cx="193" cy="115" r="7" fill="#f472b6"/><circle cx="193" cy="115" r="7" fill="none" stroke="#f472b6" class="ring" style="animation-delay:3.50s"/><text x="193" y="101" text-anchor="middle" class="lbl">juegos</text></g>
+<g class="node" style="animation-delay:3.85s"><circle cx="365" cy="60" r="7" fill="#e879f9"/><circle cx="365" cy="60" r="7" fill="none" stroke="#e879f9" class="ring" style="animation-delay:3.85s"/><text x="365" y="46" text-anchor="middle" class="lbl">audio</text></g>
 <text x="600" y="200" text-anchor="middle" class="title" fill="url(#txt)">AllForOne</text>
 <text x="600" y="240" text-anchor="middle" class="sub">Todo lo que sirve para Claude Code, en un solo lugar</text>
 <text x="600" y="272" text-anchor="middle" class="tag">SKILLS · PLUGINS · MCPs · HERRAMIENTAS · TIPS</text>

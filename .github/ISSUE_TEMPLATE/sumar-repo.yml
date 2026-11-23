@@ -22,7 +22,8 @@ body:
       label: Área
       options:
         - Planificar y decidir
-        - Web y diseño
+        - Web y frontend
+        - Diseño y marca
         - Navegador y QA
         - Mobile
         - Video y audio
