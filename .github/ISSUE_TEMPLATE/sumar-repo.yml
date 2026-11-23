@@ -1,0 +1,40 @@
+name: Sumar un repo
+description: Proponé una skill, plugin, MCP o herramienta para el catálogo
+title: "[Sumar] owner/repo"
+labels: ["sumar-repo"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repo
+      description: Link de GitHub
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: input
+    id: fuente
+    attributes:
+      label: Dónde lo viste
+      description: Reel, video o post donde apareció (opcional)
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área
+      options:
+        - Planificar y decidir
+        - Web y diseño
+        - Navegador y QA
+        - Mobile
+        - Video y audio
+        - Juegos
+        - Agentes y entorno
+        - Otra
+    validations:
+      required: true
+  - type: textarea
+    id: para
+    attributes:
+      label: Para qué sirve
+      description: Una o dos frases, y cómo se instala si lo sabés
+    validations:
+      required: true
