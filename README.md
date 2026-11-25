@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/repos-89-a78bfa?style=for-the-badge&labelColor=0f172a" alt="repos">
+  <img src="https://img.shields.io/badge/repos-90-a78bfa?style=for-the-badge&labelColor=0f172a" alt="repos">
   <img src="https://img.shields.io/badge/áreas-12-22d3ee?style=for-the-badge&labelColor=0f172a" alt="áreas">
   <img src="https://img.shields.io/badge/tips-37-f472b6?style=for-the-badge&labelColor=0f172a" alt="tips">
   <img src="https://img.shields.io/badge/actualizado-2026--11--24-34d399?style=for-the-badge&labelColor=0f172a" alt="actualizado">
@@ -23,7 +23,7 @@
   <a href="#sumar">🤝 Sumar un repo</a>
 </p>
 
-<p align="center"><img src="assets/stats.svg" width="100%" alt="89 repos, 12 áreas, 37 tips, 54 fuentes"></p>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="90 repos, 12 áreas, 37 tips, 54 fuentes"></p>
 
 Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». Casi ninguno da el link, y muchos piden «comentá X y te lo mando». **AllForOne** junta los que existen de verdad: cada repo se buscó en GitHub, se leyó su README y se anotó **para qué sirve, cómo se instala y dónde se vio**.
 
@@ -61,7 +61,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | 🥇 | **[obra/superpowers](https://github.com/obra/superpowers)** | 325.8k | Metodología de desarrollo con skills: planes, TDD, debugging, worktrees y subagentes con revisor por tarea y registro en disco |
 | 🥈 | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** | 310.2k | Configuración enorme para Claude Code (71 agentes, 314 skills, ~100 comandos): sirve como cantera para sacar piezas sueltas |
 | 🥉 | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 198.1k | Modo «senior perezoso»: el cambio mínimo que resuelve, sin sobreingeniería |
-| 4️⃣ | **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** | 153.8k | Estilos de diseño y paletas de color para que la interfaz salga bien de entrada |
+| 4️⃣ | **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** | 153.7k | Estilos de diseño y paletas de color para que la interfaz salga bien de entrada |
 | 5️⃣ | **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** | 153k | Convierte el repo en un grafo consultable para que el agente no relea cada archivo |
 
 <a id="indice"></a>
@@ -76,7 +76,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | 💻 **[Programar](#programar)**<br><sub>Hacés webs, apps o herramientas con agentes.</sub> | [🌐 Web y frontend](#web) (5) · [📱 Mobile](#mobile) (3) · [🧪 Navegador y QA](#navegador) (2) · [🤖 Agentes y entorno](#agentes) (16) |
 | 🧠 **[Pensar y decidir](#pensar)**<br><sub>Querés planificar mejor o tomar una decisión.</sub> | [🧠 Planificar y decidir](#planificar) (4) |
 | 🆓 **[Ahorrar](#ahorrar)**<br><sub>Querés dejar de pagar apps y usar open source.</sub> | [🆓 Alternativas gratis](#alternativas) (12) |
-| 🎮 **[Hacer juegos](#hacer-juegos)**<br><sub>Querés prototipar un juego desde una frase.</sub> | [🎮 Juegos](#juegos) (4) · [🧊 3D y Blender](#3d) (6) |
+| 🎮 **[Hacer juegos](#hacer-juegos)**<br><sub>Querés prototipar un juego desde una frase.</sub> | [🎮 Juegos](#juegos) (5) · [🧊 3D y Blender](#3d) (6) |
 
 <details>
 <summary><b>Ver todas las áreas</b></summary>
@@ -93,7 +93,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | 🤖 | [**Agentes y entorno**](#agentes) — Correr varios agentes, instalar skills y armar tu terminal. | 16 | 11 |
 | 🧠 | [**Planificar y decidir**](#planificar) — Pensar antes de construir: consejos de asesores, revisores sin contexto, planes que se defienden solos. | 4 | 5 |
 | 🆓 | [**Alternativas gratis**](#alternativas) — Apps open source para dejar de pagar suscripciones: voz, SEO, notas, agenda, soporte y más. | 12 | 1 |
-| 🎮 | [**Juegos**](#juegos) — De una frase a un juego jugable. | 4 | 4 |
+| 🎮 | [**Juegos**](#juegos) — De una frase a un juego jugable. | 5 | 4 |
 | 🧊 | [**3D y Blender**](#3d) — Blender, assets 3D y efectos para la web y los juegos. | 6 | 0 |
 
 </details>
@@ -114,17 +114,17 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[browser-use/video-use](https://github.com/browser-use/video-use)** 🆕 | 31.5k | 🧩 skill | Editar video con Claude Code a partir del material en bruto (cortes, color, subtítulos, autoevaluación) |
-| **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** 🆕 | 5.7k | 🔌 MCP | Que el agente escuche, mida y genere sonido (SFX desde código, crítica de mezcla); trae la skill real-sound |
-| **[Clipwing/skills](https://github.com/Clipwing/skills)** 🆕 | 197 | 🧩 skill | Real SFX: pone grabaciones reales en el cuadro exacto de un video (más otras skills de edición) |
-| **[webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)** 🆕 | 37.4k | 🛠️ otro | App para grabar demos de pantalla pulidas (zoom en los clics, marco, línea de tiempo) |
-| **[mojomast/open-higgsfield-skills](https://github.com/mojomast/open-higgsfield-skills)** ⚠️ 🆕 | 65 | 🗂️ colección | 37 skills para que el agente dirija un video entero con ComfyUI (FLUX, LTX, voz); pide GPU de 16 GB o Colab |
+| **[browser-use/video-use](https://github.com/browser-use/video-use)** 🆕 | 31.2k | 🧩 skill | Editar video con Claude Code a partir del material en bruto (cortes, color, subtítulos, autoevaluación) |
+| **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** 🆕 | 5.1k | 🔌 MCP | Que el agente escuche, mida y genere sonido (SFX desde código, crítica de mezcla); trae la skill real-sound |
+| **[Clipwing/skills](https://github.com/Clipwing/skills)** 🆕 | 142 | 🧩 skill | Real SFX: pone grabaciones reales en el cuadro exacto de un video (más otras skills de edición) |
+| **[webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)** 🆕 | 37k | 🛠️ otro | App para grabar demos de pantalla pulidas (zoom en los clics, marco, línea de tiempo) |
+| **[mojomast/open-higgsfield-skills](https://github.com/mojomast/open-higgsfield-skills)** ⚠️ 🆕 | 25 | 🗂️ colección | 37 skills para que el agente dirija un video entero con ComfyUI (FLUX, LTX, voz); pide GPU de 16 GB o Colab |
 | **[librosa/librosa](https://github.com/librosa/librosa)** 🆕 | 9.2k | 📚 librería | Análisis de audio: detectar el beat para cortar o animar al ritmo |
 | **[m-bain/whisperX](https://github.com/m-bain/whisperX)** 🆕 | 25.7k | 📚 librería | Transcripción con tiempo exacto por palabra, para subtítulos |
 | **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** 🆕 | 68.1k | ⌨️ CLI | La navaja suiza del video: cortar, convertir, unir cuadros en MP4 |
-| **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** 🆕 | 89.6k | 🛠️ otro | Editor de video open source con IA: editás tu material o rehacés cualquier video con Claude |
+| **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** 🆕 | 89.5k | 🛠️ otro | Editor de video open source con IA: editás tu material o rehacés cualquier video con Claude |
 | **[nateherkai/herk-edit-kit](https://github.com/nateherkai/herk-edit-kit)** 🆕 | 3.1k | 🗂️ colección | 15 skills para editar videos, reels y Shorts con Claude Code: cortes por transcripción y storytelling |
-| **[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)** 🆕 | 15.4k | 🛠️ otro | De un video largo saca clips verticales con subtítulos, portada y texto para TikTok, Reels y Shorts |
+| **[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)** 🆕 | 15.3k | 🛠️ otro | De un video largo saca clips verticales con subtítulos, portada y texto para TikTok, Reels y Shorts |
 | **[SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)** 🆕 | 27k | 📚 librería | Transcribir y subtitular en tu compu, más rápido que Whisper |
 | **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** 🆕 | 21.7k | 🧷 plugin | `/watch <url>`: Claude mira un video (cuadros + transcripción) y puede convertir lo que enseña en una skill |
 | **[FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip)** 🆕 | 4.2k | 🛠️ otro | Alternativa open source a OpusClip: clips verticales con puntaje viral, cara centrada y subtítulos por palabra (revisar licencia) |
@@ -138,7 +138,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ffmpeg y una API key de ElevenLabs para transcribir (paga aparte).
 
-⭐ 31.5k · 🧩 skill · 📄 MIT · 🌐 [web](https://video-use.com) · 🐙 [GitHub](https://github.com/browser-use/video-use)
+⭐ 31.2k · 🧩 skill · 📄 MIT · 🌐 [web](https://video-use.com) · 🐙 [GitHub](https://github.com/browser-use/video-use)
 
 🎥 Visto en: [▶ Claude Code Edits Your Videos Now — video-use (17.5K⭐ Git…](https://www.youtube.com/watch?v=TkjEZEA84Go)
 
@@ -152,7 +152,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** uv y ffmpeg.
 
-⭐ 5.7k · 🔌 MCP · 📄 MIT · 🌐 [web](https://leonxlnx.github.io/earshot-site/) · 🐙 [GitHub](https://github.com/Leonxlnx/earshot)
+⭐ 5.1k · 🔌 MCP · 📄 MIT · 🌐 [web](https://leonxlnx.github.io/earshot-site/) · 🐙 [GitHub](https://github.com/Leonxlnx/earshot)
 
 🎥 Visto en: [@francisco__miranda](https://www.instagram.com/reel/Df0kGBPMuUD/), [@nzstudio__._](https://www.instagram.com/reel/Dft2BG2DQhE/), [@theneuraldrop](https://www.instagram.com/reel/DgFjAdakgOL/)
 
@@ -166,7 +166,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Claude Code; ffmpeg.
 
-⭐ 197 · 🧩 skill · 📄 sin declarar · 🐙 [GitHub](https://github.com/Clipwing/skills)
+⭐ 142 · 🧩 skill · 📄 sin declarar · 🐙 [GitHub](https://github.com/Clipwing/skills)
 
 🎥 Visto en: [@francisco__miranda](https://www.instagram.com/reel/Df0kGBPMuUD/), [@nzstudio__._](https://www.instagram.com/reel/Dft2BG2DQhE/)
 
@@ -180,7 +180,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Mac, Windows o Linux.
 
-⭐ 37.4k · 🛠️ otro · 📄 AGPL-3.0 · 🌐 [web](https://recordly.dev) · 🐙 [GitHub](https://github.com/webadderallorg/Recordly)
+⭐ 37k · 🛠️ otro · 📄 AGPL-3.0 · 🌐 [web](https://recordly.dev) · 🐙 [GitHub](https://github.com/webadderallorg/Recordly)
 
 🎥 Visto en: [@agustin.ruppel](https://www.instagram.com/reel/DeUP-4pl-9f/)
 
@@ -194,7 +194,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Servidor ComfyUI con GPU de 16 GB o más (o Google Colab) y los pesos de los modelos.
 
-⭐ 65 · 🗂️ colección · 📄 propia (revisar antes de usar) · 🐙 [GitHub](https://github.com/mojomast/open-higgsfield-skills)
+⭐ 25 · 🗂️ colección · 📄 propia (revisar antes de usar) · 🐙 [GitHub](https://github.com/mojomast/open-higgsfield-skills)
 
 🎥 Visto en: [@lynxstudiosbcn](https://www.instagram.com/reel/DfvXi6KERBK/)
 
@@ -250,7 +250,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Node.js y FFmpeg.
 
-⭐ 89.6k · 🛠️ otro · 📄 Apache-2.0 · 🐙 [GitHub](https://github.com/heygen-com/hyperframes)
+⭐ 89.5k · 🛠️ otro · 📄 Apache-2.0 · 🐙 [GitHub](https://github.com/heygen-com/hyperframes)
 
 🎥 Visto en: [@alexmcarrera](https://www.instagram.com/reel/DfnaTaqP7hY/), [@capazeroo](https://www.instagram.com/reel/DgF_fSFFUrD/)
 
@@ -278,7 +278,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ver README.
 
-⭐ 15.4k · 🛠️ otro · 📄 MIT · 🐙 [GitHub](https://github.com/zhouxiaoka/autoclip)
+⭐ 15.3k · 🛠️ otro · 📄 MIT · 🐙 [GitHub](https://github.com/zhouxiaoka/autoclip)
 
 🎥 Visto en: [@rogelioserrano.ai](https://www.instagram.com/reel/DgG3SRwBSyr/)
 
@@ -360,7 +360,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** 🆕 | 75.5k | 📚 librería | Hacer videos con React, la base de casi todas las skills de video |
 | **[motiondivision/motion](https://github.com/motiondivision/motion)** 🆕 | 35.5k | 📚 librería | Librería de animación para React y JS (ex Framer Motion) |
 | **[airbnb/lottie-web](https://github.com/airbnb/lottie-web)** 🆕 | 32.6k | 📚 librería | Reproduce animaciones de After Effects en web y apps |
-| **[AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion)** 🆕 | 535 | 🧩 skill | Videos de lanzamiento de producto nivel Dribbble desde código |
+| **[AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion)** 🆕 | 534 | 🧩 skill | Videos de lanzamiento de producto nivel Dribbble desde código |
 | **[t3knobox/klik-anim-skill-creation](https://github.com/t3knobox/klik-anim-skill-creation)** ⚠️ 🆕 | 108 | 🧩 skill | Leyes de animación y método completo para motion graphics con Remotion |
 | **[199-biotechnologies/motion-dev-animations-skill](https://github.com/199-biotechnologies/motion-dev-animations-skill)** 🆕 | 244 | 🧩 skill | Animaciones web con Motion.dev: springs, scroll y gestos |
 | **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** 🆕 | 29k | 🧩 skill | Ilustraciones isométricas interactivas de máquinas y sistemas en SVG, con WebGL y efectos 3D opcionales |
@@ -528,7 +528,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Claude Code.
 
-⭐ 535 · 🧩 skill · 📄 MIT · 🐙 [GitHub](https://github.com/AbubakrChan/product-launch-motion)
+⭐ 534 · 🧩 skill · 📄 MIT · 🐙 [GitHub](https://github.com/AbubakrChan/product-launch-motion)
 
 🎥 Visto en: [@alexmcarrera](https://www.instagram.com/reel/DfnaTaqP7hY/)
 
@@ -586,10 +586,10 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** 🆕 | 7.7k | 🧩 skill | Diseño de logos con brief, 3 conceptos, pruebas a 16 px y export de favicon e íconos |
+| **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** 🆕 | 7.2k | 🧩 skill | Diseño de logos con brief, 3 conceptos, pruebas a 16 px y export de favicon e íconos |
 | **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** 🆕 | 128.9k | 🗂️ colección | DESIGN.md con el sistema de diseño de marcas conocidas (Apple, Nike, Ferrari…) para que el agente diseñe con una base real |
 | **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** 🆕 | 116.3k | 🧩 skill | Vocabulario de diseño para el agente (polish, bolder, critique, audit): detecta y arregla lo que delata una web hecha con IA |
-| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** 🆕 | 153.8k | 🧩 skill | Estilos de diseño y paletas de color para que la interfaz salga bien de entrada |
+| **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** 🆕 | 153.7k | 🧩 skill | Estilos de diseño y paletas de color para que la interfaz salga bien de entrada |
 
 <details>
 <summary>📖 <b>kaankiziltug/logo-design-skill</b> — ficha completa</summary>
@@ -600,7 +600,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Claude Code, Gemini CLI, Codex u otro agente con skills.
 
-⭐ 7.7k · 🧩 skill · 📄 MIT · 🐙 [GitHub](https://github.com/kaankiziltug/logo-design-skill)
+⭐ 7.2k · 🧩 skill · 📄 MIT · 🐙 [GitHub](https://github.com/kaankiziltug/logo-design-skill)
 
 🎥 Visto en: [@gitrepo.es](https://www.instagram.com/reel/DfcBko1k1ND/)
 
@@ -642,7 +642,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** un agente que lea skills.
 
-⭐ 153.8k · 🧩 skill · 📄 MIT · 🐙 [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+⭐ 153.7k · 🧩 skill · 📄 MIT · 🐙 [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 
 🎥 Visto en: [@maxjohnscn](https://www.instagram.com/reel/DgF95XQtfjU/)
 
@@ -750,8 +750,8 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** 🆕 | 25.9k | 🧩 skill | Que el agente escriba frontend moderno y no patrones viejos; `legacy-scan` audita un repo |
-| **[meta/astryx](https://github.com/meta/astryx)** 🆕 | 32.9k | 📚 librería | Sistema de diseño React de Meta (más de 150 componentes) pensado para agentes |
+| **[GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** 🆕 | 22.5k | 🧩 skill | Que el agente escriba frontend moderno y no patrones viejos; `legacy-scan` audita un repo |
+| **[meta/astryx](https://github.com/meta/astryx)** 🆕 | 30.4k | 📚 librería | Sistema de diseño React de Meta (más de 150 componentes) pensado para agentes |
 | **[cocopon/tweakpane](https://github.com/cocopon/tweakpane)** 🆕 | 4.8k | 📚 librería | Panel de sliders para ajustar parámetros de una animación en vivo |
 | **[GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)** 🆕 | 37.3k | 🗂️ colección | Más de 100 clones open source de apps famosas (Netflix, Airbnb, WhatsApp…) con código, demo y stack, para arrancar desde una base |
 | **[DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)** 🆕 | 52.6k | 📚 librería | Más de 215 componentes animados para React y Next.js, para copiar y pegar |
@@ -765,7 +765,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Node. Manda telemetría; se apaga con `DISABLE_TELEMETRY=1`.
 
-⭐ 25.9k · 🧩 skill · 📄 Apache-2.0 · 🌐 [web](https://goo.gle/modern-web-guidance) · 🐙 [GitHub](https://github.com/GoogleChrome/modern-web-guidance)
+⭐ 22.5k · 🧩 skill · 📄 Apache-2.0 · 🌐 [web](https://goo.gle/modern-web-guidance) · 🐙 [GitHub](https://github.com/GoogleChrome/modern-web-guidance)
 
 🎥 Visto en: [@midu.dev](https://www.instagram.com/reel/DfzxGd3AilI/)
 
@@ -779,7 +779,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Proyecto React; StyleX.
 
-⭐ 32.9k · 📚 librería · 📄 MIT · 🌐 [web](http://astryx.atmeta.com) · 🐙 [GitHub](https://github.com/meta/astryx)
+⭐ 30.4k · 📚 librería · 📄 MIT · 🌐 [web](http://astryx.atmeta.com) · 🐙 [GitHub](https://github.com/meta/astryx)
 
 🎥 Visto en: [@javiniguezoficial](https://www.instagram.com/reel/DfuTCPWKo21/)
 
@@ -847,7 +847,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (`xcode`) 🆕 | 48.1k | 🧷 plugin | Plugin oficial de Apple: Claude compila, testea y lee errores de Xcode (solo con Mac) |
+| **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (`xcode`) 🆕 | — | 🧷 plugin | Plugin oficial de Apple: Claude compila, testea y lee errores de Xcode (solo con Mac) |
 | **[MobAI-App/ios-builder](https://github.com/MobAI-App/ios-builder)** 🆕 | 1.2k | ⌨️ CLI | Compilar apps iOS (nativo, RN, Expo, Flutter) desde Windows o Linux con una Mac en la nube |
 | **[expo/expo](https://github.com/expo/expo)** 🆕 | 53.8k | 📚 librería | Apps para iPhone y Android con React; se prueban en el teléfono con un QR |
 
@@ -860,7 +860,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Mac con Xcode actualizado, el proyecto abierto y «permitir agentes externos» activado en Xcode.
 
-⭐ 48.1k · 🧷 plugin · 📄 Apache-2.0 · 🌐 [web](https://code.claude.com/docs/en/plugins) · 🐙 [GitHub](https://github.com/anthropics/claude-plugins-official)
+⭐ — · 🧷 plugin · 📄 Apache-2.0 · 🌐 [web](https://code.claude.com/docs/en/plugins) · 🐙 [GitHub](https://github.com/anthropics/claude-plugins-official)
 
 🎥 Visto en: [@noticiasde.ia](https://www.instagram.com/reel/Df1iZaSOzvS/)
 
@@ -913,8 +913,8 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** 🆕 | 40.1k | 🔌 MCP | Manejar el navegador desde el agente |
-| **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** 🆕 | 59.2k | 🔌 MCP | Chrome DevTools para agentes: depurar y automatizar el navegador |
+| **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** 🆕 | 39.9k | 🔌 MCP | Manejar el navegador desde el agente |
+| **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** 🆕 | 58.2k | 🔌 MCP | Chrome DevTools para agentes: depurar y automatizar el navegador |
 
 <details>
 <summary>📖 <b>microsoft/playwright-mcp</b> — ficha completa</summary>
@@ -925,7 +925,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Node 18 o más.
 
-⭐ 40.1k · 🔌 MCP · 📄 Apache-2.0 · 🌐 [web](https://www.npmjs.com/package/@playwright/mcp) · 🐙 [GitHub](https://github.com/microsoft/playwright-mcp)
+⭐ 39.9k · 🔌 MCP · 📄 Apache-2.0 · 🌐 [web](https://www.npmjs.com/package/@playwright/mcp) · 🐙 [GitHub](https://github.com/microsoft/playwright-mcp)
 
 🎥 Visto en: [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM)
 
@@ -939,7 +939,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Node y Chrome.
 
-⭐ 59.2k · 🔌 MCP · 📄 Apache-2.0 · 🌐 [web](https://developer.chrome.com/docs/devtools/agents) · 🐙 [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+⭐ 58.2k · 🔌 MCP · 📄 Apache-2.0 · 🌐 [web](https://developer.chrome.com/docs/devtools/agents) · 🐙 [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 🎥 Visto en: [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM)
 
@@ -955,17 +955,17 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[stablyai/orca](https://github.com/stablyai/orca)** 🆕 | 136.1k | 🛠️ otro | App de escritorio, móvil y remota para correr varios agentes CLI en paralelo con worktrees, editor y un CLI de orquestación |
-| **[vercel-labs/skills](https://github.com/vercel-labs/skills)** 🆕 | 40.8k | ⌨️ CLI | `npx skills`, el instalador de skills de skills.sh |
-| **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** 🆕 | 64.4k | 🛠️ otro | Terminal rápida con aceleración por GPU, base de la terminal de Orca |
-| **[herdrdev/herdr](https://github.com/herdrdev/herdr)** ⚠️ 🆕 | 52.7k | 🛠️ otro | Runtime y terminal multiagente en Rust, liviano y con SSH; alternativa a Orca |
-| **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⚠️ 🆕 | 116.8k | 🛠️ otro | Gestor open source de agentes para el trabajo; solo se menciona en un comentario |
-| **[alacritty/alacritty](https://github.com/alacritty/alacritty)** ⚠️ 🆕 | 66.3k | 🛠️ otro | Terminal OpenGL multiplataforma |
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** ⚠️ 🆕 | 265.9k | 🤖 agente | Agente CLI de Nous Research, compatible con Orca |
-| **[cloudflare/agents](https://github.com/cloudflare/agents)** (`packages/codemode`) 🆕 | 6.1k | 📚 librería | Code Mode: el modelo escribe un script que encadena tus herramientas y corre en sandbox, en vez de una llamada por herramienta |
-| **[aaif-goose/goose](https://github.com/aaif-goose/goose)** 🆕 | 57k | 🤖 agente | Agente open source de código, extensible y con cualquier LLM |
-| **[midudev/better-claude](https://github.com/midudev/better-claude)** 🆕 | 294 | 🧷 plugin | Plugins chicos para Claude Code: consumo, contexto, commits con Haiku, voz, snapshots y más |
-| **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** 🆕 | 64.8k | ⌨️ CLI | Le arma una CLI a cualquier programa para que el agente lo maneje sin MCP; ya trae Blender, Godot, Shotcut, n8n, Obsidian y más |
+| **[stablyai/orca](https://github.com/stablyai/orca)** 🆕 | 128.7k | 🛠️ otro | App de escritorio, móvil y remota para correr varios agentes CLI en paralelo con worktrees, editor y un CLI de orquestación |
+| **[vercel-labs/skills](https://github.com/vercel-labs/skills)** 🆕 | 39.9k | ⌨️ CLI | `npx skills`, el instalador de skills de skills.sh |
+| **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** 🆕 | 64.2k | 🛠️ otro | Terminal rápida con aceleración por GPU, base de la terminal de Orca |
+| **[herdrdev/herdr](https://github.com/herdrdev/herdr)** ⚠️ 🆕 | 51.7k | 🛠️ otro | Runtime y terminal multiagente en Rust, liviano y con SSH; alternativa a Orca |
+| **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ⚠️ 🆕 | 114.8k | 🛠️ otro | Gestor open source de agentes para el trabajo; solo se menciona en un comentario |
+| **[alacritty/alacritty](https://github.com/alacritty/alacritty)** ⚠️ 🆕 | 66.2k | 🛠️ otro | Terminal OpenGL multiplataforma |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** ⚠️ 🆕 | 264.5k | 🤖 agente | Agente CLI de Nous Research, compatible con Orca |
+| **[cloudflare/agents](https://github.com/cloudflare/agents)** (`packages/codemode`) 🆕 | 6k | 📚 librería | Code Mode: el modelo escribe un script que encadena tus herramientas y corre en sandbox, en vez de una llamada por herramienta |
+| **[aaif-goose/goose](https://github.com/aaif-goose/goose)** 🆕 | 56.9k | 🤖 agente | Agente open source de código, extensible y con cualquier LLM |
+| **[midudev/better-claude](https://github.com/midudev/better-claude)** 🆕 | 291 | 🧷 plugin | Plugins chicos para Claude Code: consumo, contexto, commits con Haiku, voz, snapshots y más |
+| **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** 🆕 | 64.7k | ⌨️ CLI | Le arma una CLI a cualquier programa para que el agente lo maneje sin MCP; ya trae Blender, Godot, Shotcut, n8n, Obsidian y más |
 | **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** 🆕 | 94.2k | 🤖 agente | Agente open source que programa, alternativa abierta a Claude Code |
 | **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** 🆕 | 87.7k | ⌨️ CLI | Recorta la salida de los comandos antes de que la lea el agente: entre 60 y 90 % menos tokens |
 | **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** 🆕 | 153k | ⌨️ CLI | Convierte el repo en un grafo consultable para que el agente no relea cada archivo |
@@ -981,7 +981,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Tus propias suscripciones de los agentes.
 
-⭐ 136.1k · 🛠️ otro · 📄 MIT · 🌐 [web](https://orca.dev) · 🐙 [GitHub](https://github.com/stablyai/orca)
+⭐ 128.7k · 🛠️ otro · 📄 MIT · 🌐 [web](https://orca.dev) · 🐙 [GitHub](https://github.com/stablyai/orca)
 
 🎥 Visto en: [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM), [▶ Probando Orca ADE: Cómo programar con MÚLTIPLES Agentes d…](https://www.youtube.com/watch?v=KbOKUlUd9mA)
 
@@ -995,7 +995,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Node.
 
-⭐ 40.8k · ⌨️ CLI · 📄 MIT · 🌐 [web](https://skills.sh) · 🐙 [GitHub](https://github.com/vercel-labs/skills)
+⭐ 39.9k · ⌨️ CLI · 📄 MIT · 🌐 [web](https://skills.sh) · 🐙 [GitHub](https://github.com/vercel-labs/skills)
 
 🎥 Visto en: [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM), [@oscarboix.ia](https://www.instagram.com/reel/DgF6775imXJ/)
 
@@ -1009,7 +1009,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Mac o Linux.
 
-⭐ 64.4k · 🛠️ otro · 📄 MIT · 🌐 [web](https://ghostty.org) · 🐙 [GitHub](https://github.com/ghostty-org/ghostty)
+⭐ 64.2k · 🛠️ otro · 📄 MIT · 🌐 [web](https://ghostty.org) · 🐙 [GitHub](https://github.com/ghostty-org/ghostty)
 
 🎥 Visto en: [▶ Probando Orca ADE: Cómo programar con MÚLTIPLES Agentes d…](https://www.youtube.com/watch?v=KbOKUlUd9mA)
 
@@ -1023,7 +1023,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ver README.
 
-⭐ 52.7k · 🛠️ otro · 📄 Apache-2.0 · 🌐 [web](https://herdr.dev) · 🐙 [GitHub](https://github.com/herdrdev/herdr)
+⭐ 51.7k · 🛠️ otro · 📄 Apache-2.0 · 🌐 [web](https://herdr.dev) · 🐙 [GitHub](https://github.com/herdrdev/herdr)
 
 🎥 Visto en: [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM)
 
@@ -1037,7 +1037,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ver README.
 
-⭐ 116.8k · 🛠️ otro · 📄 MIT · 🌐 [web](https://paperclip.ing) · 🐙 [GitHub](https://github.com/paperclipai/paperclip)
+⭐ 114.8k · 🛠️ otro · 📄 MIT · 🌐 [web](https://paperclip.ing) · 🐙 [GitHub](https://github.com/paperclipai/paperclip)
 
 🎥 Visto en: [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM)
 
@@ -1051,7 +1051,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ninguno especial.
 
-⭐ 66.3k · 🛠️ otro · 📄 Apache-2.0 · 🌐 [web](https://alacritty.org) · 🐙 [GitHub](https://github.com/alacritty/alacritty)
+⭐ 66.2k · 🛠️ otro · 📄 Apache-2.0 · 🌐 [web](https://alacritty.org) · 🐙 [GitHub](https://github.com/alacritty/alacritty)
 
 🎥 Visto en: [▶ Probando Orca ADE: Cómo programar con MÚLTIPLES Agentes d…](https://www.youtube.com/watch?v=KbOKUlUd9mA)
 
@@ -1065,7 +1065,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ver README.
 
-⭐ 265.9k · 🤖 agente · 📄 MIT · 🌐 [web](https://hermes-agent.nousresearch.com) · 🐙 [GitHub](https://github.com/NousResearch/hermes-agent)
+⭐ 264.5k · 🤖 agente · 📄 MIT · 🌐 [web](https://hermes-agent.nousresearch.com) · 🐙 [GitHub](https://github.com/NousResearch/hermes-agent)
 
 🎥 Visto en: [▶ Probando Orca ADE: Cómo programar con MÚLTIPLES Agentes d…](https://www.youtube.com/watch?v=KbOKUlUd9mA), [@rogelioserrano.ai](https://www.instagram.com/reel/DgG3SRwBSyr/)
 
@@ -1079,7 +1079,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Node; se integra con Vercel AI SDK o TanStack AI. Experimental.
 
-⭐ 6.1k · 📚 librería · 📄 MIT · 🌐 [web](https://developers.cloudflare.com/agents/) · 🐙 [GitHub](https://github.com/cloudflare/agents)
+⭐ 6k · 📚 librería · 📄 MIT · 🌐 [web](https://developers.cloudflare.com/agents/) · 🐙 [GitHub](https://github.com/cloudflare/agents)
 
 🎥 Visto en: [@antonspain_ia](https://www.instagram.com/reel/Df_pUWqHI1r/), [@ninodirector](https://www.instagram.com/reel/DgApNlLhOTo/), [@adriaestevez.ai](https://www.instagram.com/reel/DgF-WmdhRON/)
 
@@ -1093,7 +1093,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ver README.
 
-⭐ 57k · 🤖 agente · 📄 Apache-2.0 · 🌐 [web](https://goose-docs.ai/) · 🐙 [GitHub](https://github.com/aaif-goose/goose)
+⭐ 56.9k · 🤖 agente · 📄 Apache-2.0 · 🌐 [web](https://goose-docs.ai/) · 🐙 [GitHub](https://github.com/aaif-goose/goose)
 
 🎥 Visto en: [@antonspain_ia](https://www.instagram.com/reel/Df_pUWqHI1r/), [@ninodirector](https://www.instagram.com/reel/DgApNlLhOTo/), [@adriaestevez.ai](https://www.instagram.com/reel/DgF-WmdhRON/)
 
@@ -1107,7 +1107,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Claude Code con plugins.
 
-⭐ 294 · 🧷 plugin · 📄 MIT · 🐙 [GitHub](https://github.com/midudev/better-claude)
+⭐ 291 · 🧷 plugin · 📄 MIT · 🐙 [GitHub](https://github.com/midudev/better-claude)
 
 🎥 Visto en: [@midu.dev](https://www.instagram.com/reel/DeroLlfiFNh/)
 
@@ -1121,7 +1121,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Python; la app que quieras controlar.
 
-⭐ 64.8k · ⌨️ CLI · 📄 Apache-2.0 · 🌐 [web](https://hkuds.github.io/CLI-Anything/) · 🐙 [GitHub](https://github.com/HKUDS/CLI-Anything)
+⭐ 64.7k · ⌨️ CLI · 📄 Apache-2.0 · 🌐 [web](https://hkuds.github.io/CLI-Anything/) · 🐙 [GitHub](https://github.com/HKUDS/CLI-Anything)
 
 🎥 Visto en: [@santiremedio](https://www.instagram.com/reel/DgEDxdcTYRG/)
 
@@ -1230,7 +1230,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)** 🆕 | 22.7k | 🧷 plugin | Un agente con contexto planifica y revisores sin contexto le buscan los huecos antes de construir |
+| **[google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)** 🆕 | 21k | 🧷 plugin | Un agente con contexto planifica y revisores sin contexto le buscan los huecos antes de construir |
 | **[aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council)** 🆕 | 3.3k | 🧩 skill | Consejo de 5 asesores con revisión cruzada y veredicto, para no decidir con un Claude que te da la razón |
 | **[tenfoldmarc/llm-council-skill](https://github.com/tenfoldmarc/llm-council-skill)** 🆕 | 1.1k | 🧩 skill | El mismo consejo adaptado a subagentes de Claude Code |
 | **[obra/superpowers](https://github.com/obra/superpowers)** 🆕 | 325.8k | 🧷 plugin | Metodología de desarrollo con skills: planes, TDD, debugging, worktrees y subagentes con revisor por tarea y registro en disco |
@@ -1244,7 +1244,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Claude Code con soporte de plugins. Reiniciar la sesión después de instalar.
 
-⭐ 22.7k · 🧷 plugin · 📄 Apache-2.0 · 🌐 [web](https://egm.dev) · 🐙 [GitHub](https://github.com/google/elephant-goldfish-model)
+⭐ 21k · 🧷 plugin · 📄 Apache-2.0 · 🌐 [web](https://egm.dev) · 🐙 [GitHub](https://github.com/google/elephant-goldfish-model)
 
 🎥 Visto en: [@aldopaucaria](https://www.instagram.com/reel/Dfzrv8tDyCQ/)
 
@@ -1319,14 +1319,14 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** 🆕 | 36.2k | 🛠️ otro | Imágenes y video con más de 600 modelos (en vez de Higgsfield) |
-| **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** 🆕 | 117.8k | 🛠️ otro | Voces, clonación y doblaje 100 % local (en vez de ElevenLabs) |
-| **[every-app/open-seo](https://github.com/every-app/open-seo)** 🆕 | 28.8k | 🛠️ otro | Rankings, backlinks y auditorías SEO (en vez de Semrush o Ahrefs) |
-| **[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** 🆕 | 79.5k | 🛠️ otro | Notas, docs y wikis con IA local (en vez de Notion) |
-| **[OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)** 🆕 | 12.2k | 🛠️ otro | Dictado por voz a cualquier app, sin internet (en vez de Wispr Flow) |
+| **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** 🆕 | 36k | 🛠️ otro | Imágenes y video con más de 600 modelos (en vez de Higgsfield) |
+| **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** 🆕 | 117k | 🛠️ otro | Voces, clonación y doblaje 100 % local (en vez de ElevenLabs) |
+| **[every-app/open-seo](https://github.com/every-app/open-seo)** 🆕 | 28.7k | 🛠️ otro | Rankings, backlinks y auditorías SEO (en vez de Semrush o Ahrefs) |
+| **[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** 🆕 | 79.4k | 🛠️ otro | Notas, docs y wikis con IA local (en vez de Notion) |
+| **[OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)** 🆕 | 12.1k | 🛠️ otro | Dictado por voz a cualquier app, sin internet (en vez de Wispr Flow) |
 | **[opf/openproject](https://github.com/opf/openproject)** 🆕 | 17.7k | 🛠️ otro | Gestión de proyectos en tu servidor (en vez de Asana o Jira) |
-| **[calcom/cal.diy](https://github.com/calcom/cal.diy)** 🆕 | 50.4k | 🛠️ otro | Agenda de reuniones con Google y Outlook (en vez de Calendly) |
-| **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** 🆕 | 40.5k | 🛠️ otro | Mensajes de clientes en una sola bandeja (en vez de Intercom) |
+| **[calcom/cal.diy](https://github.com/calcom/cal.diy)** 🆕 | 50.3k | 🛠️ otro | Agenda de reuniones con Google y Outlook (en vez de Calendly) |
+| **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** 🆕 | 40.4k | 🛠️ otro | Mensajes de clientes en una sola bandeja (en vez de Intercom) |
 | **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)** 🆕 | 25.5k | 🛠️ otro | Grabar la pantalla y compartirla con un link (en vez de Loom) |
 | **[WordPress/openverse](https://github.com/WordPress/openverse)** 🆕 | 789 | 🛠️ otro | Buscador de sonidos, música e imágenes con licencia libre (en vez de bancos pagos) |
 | **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** ⚠️ 🆕 | 57.9k | 🛠️ otro | Servidor local compatible con la API de Anthropic que reparte entre modelos gratis (Gemini, Grok, Kimi, Qwen…): Claude Code sin suscripción, pero sin modelos de Claude |
@@ -1341,7 +1341,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** API key de los proveedores que uses.
 
-⭐ 36.2k · 🛠️ otro · 📄 MIT · 🌐 [web](https://muapi.ai/open-generative-ai) · 🐙 [GitHub](https://github.com/Anil-matcha/Open-Generative-AI)
+⭐ 36k · 🛠️ otro · 📄 MIT · 🌐 [web](https://muapi.ai/open-generative-ai) · 🐙 [GitHub](https://github.com/Anil-matcha/Open-Generative-AI)
 
 🎥 Visto en: [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/)
 
@@ -1355,7 +1355,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ver README (modelos locales).
 
-⭐ 117.8k · 🛠️ otro · 📄 AGPL-3.0 · 🐙 [GitHub](https://github.com/debpalash/VoiceStudio)
+⭐ 117k · 🛠️ otro · 📄 AGPL-3.0 · 🐙 [GitHub](https://github.com/debpalash/VoiceStudio)
 
 🎥 Visto en: [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/)
 
@@ -1369,7 +1369,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Clave de DataForSEO para los datos.
 
-⭐ 28.8k · 🛠️ otro · 📄 MIT · 🌐 [web](https://openseo.so) · 🐙 [GitHub](https://github.com/every-app/open-seo)
+⭐ 28.7k · 🛠️ otro · 📄 MIT · 🌐 [web](https://openseo.so) · 🐙 [GitHub](https://github.com/every-app/open-seo)
 
 🎥 Visto en: [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/)
 
@@ -1383,7 +1383,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Escritorio o móvil.
 
-⭐ 79.5k · 🛠️ otro · 📄 AGPL-3.0 · 🌐 [web](https://appflowy.com) · 🐙 [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
+⭐ 79.4k · 🛠️ otro · 📄 AGPL-3.0 · 🌐 [web](https://appflowy.com) · 🐙 [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 
 🎥 Visto en: [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/)
 
@@ -1397,7 +1397,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Escritorio (Mac, Windows o Linux).
 
-⭐ 12.2k · 🛠️ otro · 📄 MIT · 🌐 [web](https://openwhispr.com) · 🐙 [GitHub](https://github.com/OpenWhispr/openwhispr)
+⭐ 12.1k · 🛠️ otro · 📄 MIT · 🌐 [web](https://openwhispr.com) · 🐙 [GitHub](https://github.com/OpenWhispr/openwhispr)
 
 🎥 Visto en: [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/)
 
@@ -1425,7 +1425,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Servidor propio o Docker.
 
-⭐ 50.4k · 🛠️ otro · 📄 MIT · 🌐 [web](https://cal.diy) · 🐙 [GitHub](https://github.com/calcom/cal.diy)
+⭐ 50.3k · 🛠️ otro · 📄 MIT · 🌐 [web](https://cal.diy) · 🐙 [GitHub](https://github.com/calcom/cal.diy)
 
 🎥 Visto en: [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/)
 
@@ -1439,7 +1439,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Servidor propio o Docker.
 
-⭐ 40.5k · 🛠️ otro · 📄 propia (open source, revisar) · 🌐 [web](https://www.chatwoot.com) · 🐙 [GitHub](https://github.com/chatwoot/chatwoot)
+⭐ 40.4k · 🛠️ otro · 📄 propia (open source, revisar) · 🌐 [web](https://www.chatwoot.com) · 🐙 [GitHub](https://github.com/chatwoot/chatwoot)
 
 🎥 Visto en: [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/)
 
@@ -1524,10 +1524,11 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 | Repo | ⭐ | Tipo | Para qué sirve |
 |---|:-:|---|---|
-| **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** 🆕 | 40.8k | 🗂️ colección | Estudio de juegos en Claude Code: de una frase a un prototipo jugable en el navegador |
-| **[spytheeuclidean-a11y/knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** 🆕 | 399 | 🛠️ otro | Mapas jugables de Project Zomboid desde cualquier lugar real (OpenStreetMap); referencia de generación procedural |
+| **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** 🆕 | 40.7k | 🗂️ colección | Estudio de juegos en Claude Code: de una frase a un prototipo jugable en el navegador |
+| **[spytheeuclidean-a11y/knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** 🆕 | 398 | 🛠️ otro | Mapas jugables de Project Zomboid desde cualquier lugar real (OpenStreetMap); referencia de generación procedural |
 | **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)** 🆕 | 10.7k | 🗂️ colección | 79 skills de game dev para 12 motores (Godot, Unity, Unreal, Roblox, three.js, Phaser…) con un router que carga las justas según el motor y la tarea |
 | **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** 🆕 | 2.9k | 🛠️ otro | Mundo submarino entero hecho solo con código en WebGPU (un archivo de 97 kB): referencia para generar terreno, vegetación y sonido sin assets |
+| **[renpy/renpy](https://github.com/renpy/renpy)** | 7.1k | 🛠️ otro | Motor de novelas visuales: diálogos, decisiones, guardado y exportación a PC, Mac, Android y web; el más usado en juegos narrativos |
 
 <details>
 <summary>📖 <b>Donchitos/Claude-Code-Game-Studios</b> — ficha completa</summary>
@@ -1538,7 +1539,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Claude Code y Bash (en Windows, Git for Windows).
 
-⭐ 40.8k · 🗂️ colección · 📄 MIT · 🐙 [GitHub](https://github.com/Donchitos/Claude-Code-Game-Studios)
+⭐ 40.7k · 🗂️ colección · 📄 MIT · 🐙 [GitHub](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
 🎥 Visto en: [@gitrepo.es](https://www.instagram.com/reel/Df67F0rAplI/), [@luatech.ia](https://www.instagram.com/reel/DfcOvgtFfn7/)
 
@@ -1552,7 +1553,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Project Zomboid Build 42.
 
-⭐ 399 · 🛠️ otro · 🐙 [GitHub](https://github.com/spytheeuclidean-a11y/knoxmap)
+⭐ 398 · 🛠️ otro · 🐙 [GitHub](https://github.com/spytheeuclidean-a11y/knoxmap)
 
 🎥 Visto en: [@luis.gamingg](https://www.instagram.com/reel/DfYWF1Ixob3/)
 
@@ -1583,6 +1584,18 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 ⭐ 2.9k · 🛠️ otro · 📄 MIT · 🐙 [GitHub](https://github.com/Noniv/abyssal-garden)
 
 🎥 Visto en: [@motionreel.dev](https://www.instagram.com/reel/DgISEs0CQtX/)
+
+</details>
+<details>
+<summary>📖 <b>renpy/renpy</b> — ficha completa</summary>
+
+**Qué hace:** Motor de novelas visuales en Python: diálogos, decisiones, guardado, menús y exportación a PC, Mac, Android y web.
+
+**Cómo se instala:** descargar el SDK de renpy.org
+
+**Requisitos:** el SDK de renpy.org (trae su propio Python).
+
+⭐ 7.1k · 🛠️ otro · 📄 propia, permisiva (ver LICENSE.txt) · 🌐 [web](https://www.renpy.org) · 🐙 [GitHub](https://github.com/renpy/renpy)
 
 </details>
 
@@ -1747,7 +1760,7 @@ flowchart LR
 
 ## 🎥 Fuentes
 
-Gracias a quienes los mostraron primero: [@_mati.alvez](https://www.instagram.com/reel/DfXQZ2XxJDF/) · [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/) · [@adriaestevez.ai](https://www.instagram.com/reel/DgF-WmdhRON/) · [@agustin.ruppel](https://www.instagram.com/reel/DeUP-4pl-9f/) · [@ai.lution](https://www.instagram.com/reel/DgFoJAKh1Yt/) · [@aldopaucaria](https://www.instagram.com/reel/Df41R_HpUxD/) · [@aldopaucaria](https://www.instagram.com/reel/Dfzrv8tDyCQ/) · [@aldopaucaria](https://www.instagram.com/reel/Df8RBPgjvTt/) · [@alexmcarrera](https://www.instagram.com/reel/DfnaTaqP7hY/) · [@antonspain_ia](https://www.instagram.com/reel/Df_pUWqHI1r/) · [@capazeroo](https://www.instagram.com/reel/DgF_fSFFUrD/) · [@codigollamingo](https://www.instagram.com/reel/DevZ0uRgiM5/) · [@cromeda.studio](https://www.instagram.com/reel/DgE5qQSgOzx/) · [@francisco__miranda](https://www.instagram.com/reel/Df0kGBPMuUD/) · [@gitrepo.es](https://www.instagram.com/reel/DfcBko1k1ND/) · [@gitrepo.es](https://www.instagram.com/reel/Df67F0rAplI/) · [@jamessotovalle](https://www.instagram.com/reel/DgGZ0AIiY6I/) · [@jamessotovalle](https://www.instagram.com/reel/DgEa2GIxoyb/) · [@javiniguezoficial](https://www.instagram.com/reel/DZmxlSkKmbP/) · [@javiniguezoficial](https://www.instagram.com/reel/DfuTCPWKo21/) · [@javiniguezoficial](https://www.instagram.com/reel/DdbWmxmKjtO/) · [@kspmn](https://www.instagram.com/reel/DgCnP-DRXBO/) · [@leodeverasoficial](https://www.instagram.com/reel/DgAsAxlh5JP/) · [@luatech.ia](https://www.instagram.com/reel/DfcOvgtFfn7/) · [@luis.gamingg](https://www.instagram.com/reel/DfYWF1Ixob3/) · [@lynxstudiosbcn](https://www.instagram.com/reel/DfvXi6KERBK/) · [@maximobrunosen6](https://www.instagram.com/reel/DedK_IRO0gE/) · [@maxjohnscn](https://www.instagram.com/reel/DgF95XQtfjU/) · [@midu.dev](https://www.instagram.com/reel/DeroLlfiFNh/) · [@midu.dev](https://www.instagram.com/reel/DfzxGd3AilI/) · [@mihad.builds](https://www.instagram.com/reel/Df-cDj_DFDc/) · [@motionreel.dev](https://www.instagram.com/reel/DgISEs0CQtX/) · [@mr.eflow](https://www.instagram.com/reel/DcZpxwhR7zG/) · [@ninodirector](https://www.instagram.com/reel/DgApNlLhOTo/) · [@noticiasde.ia](https://www.instagram.com/reel/Df1iZaSOzvS/) · [@nzstudio__._](https://www.instagram.com/reel/Dft2BG2DQhE/) · [@orbit.builders](https://www.instagram.com/reel/DgG4rwDDUfe/) · [@oscarboix.ia](https://www.instagram.com/reel/DgF6775imXJ/) · [@pietrodrame.ai](https://www.instagram.com/reel/DgHzQqZs1wR/) · [@relyviews](https://www.instagram.com/reel/DffWecwjyDx/) · [@rogelioserrano.ai](https://www.instagram.com/reel/DgG3SRwBSyr/) · [@santiremedio](https://www.instagram.com/reel/DgGmnXhioeC/) · [@santiremedio](https://www.instagram.com/reel/DgGnVrVipnq/) · [@santiremedio](https://www.instagram.com/reel/DgEDxdcTYRG/) · [@sergivalencia.ai](https://www.instagram.com/reel/DgH1xMDt6hN/) · [@silvesttre.ai](https://www.instagram.com/reel/DeWzrEvsgHN/) · [@stj.taneja](https://www.instagram.com/reel/DgG34V_uEGZ/) · [@tecnologiadescubierta](https://www.instagram.com/reel/DgF27VxObEq/) · [@theneuraldrop](https://www.instagram.com/reel/DgFjAdakgOL/) · [@tivadarsimonai](https://www.instagram.com/reel/Df1xnHIDmT5/) · [@ux.jonathan](https://www.instagram.com/reel/Dfp8ogTTqmi/) · [▶ Claude Code Edits Your Videos Now — video-use (17.5K⭐ Git…](https://www.youtube.com/watch?v=TkjEZEA84Go) · [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM) · [▶ Probando Orca ADE: Cómo programar con MÚLTIPLES Agentes d…](https://www.youtube.com/watch?v=KbOKUlUd9mA)
+Gracias a quienes los mostraron primero: [@_mati.alvez](https://www.instagram.com/reel/DfXQZ2XxJDF/) · [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/) · [@adriaestevez.ai](https://www.instagram.com/reel/DgF-WmdhRON/) · [@agustin.ruppel](https://www.instagram.com/reel/DeUP-4pl-9f/) · [@ai.lution](https://www.instagram.com/reel/DgFoJAKh1Yt/) · [@aldopaucaria](https://www.instagram.com/reel/Df8RBPgjvTt/) · [@aldopaucaria](https://www.instagram.com/reel/Df41R_HpUxD/) · [@aldopaucaria](https://www.instagram.com/reel/Dfzrv8tDyCQ/) · [@alexmcarrera](https://www.instagram.com/reel/DfnaTaqP7hY/) · [@antonspain_ia](https://www.instagram.com/reel/Df_pUWqHI1r/) · [@capazeroo](https://www.instagram.com/reel/DgF_fSFFUrD/) · [@codigollamingo](https://www.instagram.com/reel/DevZ0uRgiM5/) · [@cromeda.studio](https://www.instagram.com/reel/DgE5qQSgOzx/) · [@francisco__miranda](https://www.instagram.com/reel/Df0kGBPMuUD/) · [@gitrepo.es](https://www.instagram.com/reel/DfcBko1k1ND/) · [@gitrepo.es](https://www.instagram.com/reel/Df67F0rAplI/) · [@jamessotovalle](https://www.instagram.com/reel/DgGZ0AIiY6I/) · [@jamessotovalle](https://www.instagram.com/reel/DgEa2GIxoyb/) · [@javiniguezoficial](https://www.instagram.com/reel/DZmxlSkKmbP/) · [@javiniguezoficial](https://www.instagram.com/reel/DdbWmxmKjtO/) · [@javiniguezoficial](https://www.instagram.com/reel/DfuTCPWKo21/) · [@kspmn](https://www.instagram.com/reel/DgCnP-DRXBO/) · [@leodeverasoficial](https://www.instagram.com/reel/DgAsAxlh5JP/) · [@luatech.ia](https://www.instagram.com/reel/DfcOvgtFfn7/) · [@luis.gamingg](https://www.instagram.com/reel/DfYWF1Ixob3/) · [@lynxstudiosbcn](https://www.instagram.com/reel/DfvXi6KERBK/) · [@maximobrunosen6](https://www.instagram.com/reel/DedK_IRO0gE/) · [@maxjohnscn](https://www.instagram.com/reel/DgF95XQtfjU/) · [@midu.dev](https://www.instagram.com/reel/DfzxGd3AilI/) · [@midu.dev](https://www.instagram.com/reel/DeroLlfiFNh/) · [@mihad.builds](https://www.instagram.com/reel/Df-cDj_DFDc/) · [@motionreel.dev](https://www.instagram.com/reel/DgISEs0CQtX/) · [@mr.eflow](https://www.instagram.com/reel/DcZpxwhR7zG/) · [@ninodirector](https://www.instagram.com/reel/DgApNlLhOTo/) · [@noticiasde.ia](https://www.instagram.com/reel/Df1iZaSOzvS/) · [@nzstudio__._](https://www.instagram.com/reel/Dft2BG2DQhE/) · [@orbit.builders](https://www.instagram.com/reel/DgG4rwDDUfe/) · [@oscarboix.ia](https://www.instagram.com/reel/DgF6775imXJ/) · [@pietrodrame.ai](https://www.instagram.com/reel/DgHzQqZs1wR/) · [@relyviews](https://www.instagram.com/reel/DffWecwjyDx/) · [@rogelioserrano.ai](https://www.instagram.com/reel/DgG3SRwBSyr/) · [@santiremedio](https://www.instagram.com/reel/DgGmnXhioeC/) · [@santiremedio](https://www.instagram.com/reel/DgGnVrVipnq/) · [@santiremedio](https://www.instagram.com/reel/DgEDxdcTYRG/) · [@sergivalencia.ai](https://www.instagram.com/reel/DgH1xMDt6hN/) · [@silvesttre.ai](https://www.instagram.com/reel/DeWzrEvsgHN/) · [@stj.taneja](https://www.instagram.com/reel/DgG34V_uEGZ/) · [@tecnologiadescubierta](https://www.instagram.com/reel/DgF27VxObEq/) · [@theneuraldrop](https://www.instagram.com/reel/DgFjAdakgOL/) · [@tivadarsimonai](https://www.instagram.com/reel/Df1xnHIDmT5/) · [@ux.jonathan](https://www.instagram.com/reel/Dfp8ogTTqmi/) · [▶ Claude Code Edits Your Videos Now — video-use (17.5K⭐ Git…](https://www.youtube.com/watch?v=TkjEZEA84Go) · [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM) · [▶ Probando Orca ADE: Cómo programar con MÚLTIPLES Agentes d…](https://www.youtube.com/watch?v=KbOKUlUd9mA)
 
 <p align="center"><img src="assets/divisor.svg" width="100%"></p>
 
