@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/repos-151-a78bfa?style=for-the-badge&labelColor=0f172a" alt="repos">
+  <img src="https://img.shields.io/badge/repos-153-a78bfa?style=for-the-badge&labelColor=0f172a" alt="repos">
   <img src="https://img.shields.io/badge/áreas-12-22d3ee?style=for-the-badge&labelColor=0f172a" alt="áreas">
   <img src="https://img.shields.io/badge/tips-48-f472b6?style=for-the-badge&labelColor=0f172a" alt="tips">
   <img src="https://img.shields.io/badge/actualizado-2026--11--27-34d399?style=for-the-badge&labelColor=0f172a" alt="actualizado">
@@ -23,7 +23,7 @@
   <a href="#sumar">🤝 Sumar un repo</a>
 </p>
 
-<p align="center"><img src="assets/stats.svg" width="100%" alt="151 repos, 12 áreas, 48 tips, 102 fuentes"></p>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="153 repos, 12 áreas, 48 tips, 102 fuentes"></p>
 
 Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». Casi ninguno da el link, y muchos piden «comentá X y te lo mando». **AllForOne** junta los que existen de verdad: cada repo se buscó en GitHub, se leyó su README y se anotó **para qué sirve, cómo se instala y dónde se vio**.
 
@@ -76,7 +76,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | 💻 **[Programar](#programar)**<br><sub>Hacés webs, apps o herramientas con agentes.</sub> | [🌐 Web y frontend](#web) (6) · [📱 Mobile](#mobile) (4) · [🧪 Navegador y QA](#navegador) (5) · [🤖 Agentes y entorno](#agentes) (37) |
 | 🧠 **[Pensar y decidir](#pensar)**<br><sub>Querés planificar mejor o tomar una decisión.</sub> | [🧠 Planificar y decidir](#planificar) (7) |
 | 🆓 **[Ahorrar](#ahorrar)**<br><sub>Querés dejar de pagar apps y usar open source.</sub> | [🆓 Alternativas gratis](#alternativas) (16) |
-| 🎮 **[Hacer juegos](#hacer-juegos)**<br><sub>Querés prototipar un juego desde una frase.</sub> | [🎮 Juegos](#juegos) (6) · [🧊 3D y Blender](#3d) (7) |
+| 🎮 **[Hacer juegos](#hacer-juegos)**<br><sub>Querés prototipar un juego desde una frase.</sub> | [🎮 Juegos](#juegos) (8) · [🧊 3D y Blender](#3d) (7) |
 
 <details>
 <summary><b>Ver todas las áreas</b></summary>
@@ -93,7 +93,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | 🤖 | [**Agentes y entorno**](#agentes) — Correr varios agentes, instalar skills y armar tu terminal. | 37 | 17 |
 | 🧠 | [**Planificar y decidir**](#planificar) — Pensar antes de construir: consejos de asesores, revisores sin contexto, planes que se defienden solos. | 7 | 5 |
 | 🆓 | [**Alternativas gratis**](#alternativas) — Apps open source para dejar de pagar suscripciones: voz, SEO, notas, agenda, soporte y más. | 16 | 1 |
-| 🎮 | [**Juegos**](#juegos) — De una frase a un juego jugable. | 6 | 4 |
+| 🎮 | [**Juegos**](#juegos) — De una frase a un juego jugable. | 8 | 4 |
 | 🧊 | [**3D y Blender**](#3d) — Blender, assets 3D y efectos para la web y los juegos. | 7 | 0 |
 
 </details>
@@ -120,7 +120,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | **[webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)** | 37.6k | 🛠️ otro | App para grabar demos de pantalla pulidas (zoom en los clics, marco, línea de tiempo) |
 | **[mojomast/open-higgsfield-skills](https://github.com/mojomast/open-higgsfield-skills)** ⚠️ | 72 | 🗂️ colección | 37 skills para que el agente dirija un video entero con ComfyUI (FLUX, LTX, voz); pide GPU de 16 GB o Colab |
 | **[librosa/librosa](https://github.com/librosa/librosa)** 🆕 | 9.2k | 📚 librería | Análisis de audio: detectar el beat para cortar o animar al ritmo |
-| **[m-bain/whisperX](https://github.com/m-bain/whisperX)** 🆕 | 25.8k | 📚 librería | Transcripción con tiempo exacto por palabra, para subtítulos |
+| **[m-bain/whisperX](https://github.com/m-bain/whisperX)** 🆕 | 25.9k | 📚 librería | Transcripción con tiempo exacto por palabra, para subtítulos |
 | **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** 🆕 | 68.3k | ⌨️ CLI | La navaja suiza del video: cortar, convertir, unir cuadros en MP4 |
 | **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** 🆕 | 91.5k | 🛠️ otro | Editor de video open source con IA: editás tu material o rehacés cualquier video con Claude |
 | **[nateherkai/herk-edit-kit](https://github.com/nateherkai/herk-edit-kit)** 🆕 | 3.2k | 🗂️ colección | 15 skills para editar videos, reels y Shorts con Claude Code: cortes por transcripción y storytelling |
@@ -230,7 +230,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** Python; GPU recomendada.
 
-⭐ 25.8k · 📚 librería · 📄 BSD-2-Clause · 🐙 [GitHub](https://github.com/m-bain/whisperX)
+⭐ 25.9k · 📚 librería · 📄 BSD-2-Clause · 🐙 [GitHub](https://github.com/m-bain/whisperX)
 
 🎥 Visto en: [@mihad.builds](https://www.instagram.com/reel/Df-cDj_DFDc/)
 
@@ -2171,7 +2171,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** 🆕 | 40.7k | 🛠️ otro | Mensajes de clientes en una sola bandeja (en vez de Intercom) |
 | **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)** 🆕 | 25.7k | 🛠️ otro | Grabar la pantalla y compartirla con un link (en vez de Loom) |
 | **[WordPress/openverse](https://github.com/WordPress/openverse)** 🆕 | 838 | 🛠️ otro | Buscador de sonidos, música e imágenes con licencia libre (en vez de bancos pagos) |
-| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** ⚠️ 🆕 | 59.2k | 🛠️ otro | Servidor local compatible con la API de Anthropic que reparte entre modelos gratis (Gemini, Grok, Kimi, Qwen…): Claude Code sin suscripción, pero sin modelos de Claude |
+| **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** ⚠️ 🆕 | 59.3k | 🛠️ otro | Servidor local compatible con la API de Anthropic que reparte entre modelos gratis (Gemini, Grok, Kimi, Qwen…): Claude Code sin suscripción, pero sin modelos de Claude |
 | **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** ⚠️ 🆕 | 73.5k | 🛠️ otro | Puente para usar Claude Code, Codex u OpenCode con modelos gratis de 61 proveedores, con cambio automático si uno se cae (no son modelos de Claude) |
 | **[ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway)** 🆕 | 301 | 🛠️ otro | Pasarela única para 30+ proveedores de IA: manda cada pedido al más barato y cachea respuestas repetidas (para apps con API) |
 | **[storytold/wordcraft](https://github.com/storytold/wordcraft)** 🆕 | 18.7k | 🛠️ otro | Procesador de textos libre que abre y guarda .docx, con control de cambios, citas y PDF; reemplaza a Word |
@@ -2327,7 +2327,7 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 
 **Requisitos:** ver README; cuentas gratis en los proveedores.
 
-⭐ 59.2k · 🛠️ otro · 📄 MIT · 🐙 [GitHub](https://github.com/tashfeenahmed/freellmapi)
+⭐ 59.3k · 🛠️ otro · 📄 MIT · 🐙 [GitHub](https://github.com/tashfeenahmed/freellmapi)
 
 🎥 Visto en: [@pietrodrame.ai](https://www.instagram.com/reel/DgHzQqZs1wR/)
 
@@ -2432,6 +2432,8 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 | **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** 🆕 | 3.1k | 🛠️ otro | Mundo submarino entero hecho solo con código en WebGPU (un archivo de 97 kB): referencia para generar terreno, vegetación y sonido sin assets |
 | **[renpy/renpy](https://github.com/renpy/renpy)** | 7.1k | 🛠️ otro | Motor de novelas visuales: diálogos, decisiones, guardado y exportación a PC, Mac, Android y web; el más usado en juegos narrativos |
 | **[PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)** 🆕 | 7.9k | 🛠️ otro | Una IA que aprende a jugar Pokémon Rojo con aprendizaje por refuerzo; referencia para diseñar recompensas |
+| **[jaisurya-dev-art/rigby2d](https://github.com/jaisurya-dev-art/rigby2d)** | 397 | 🛠️ otro | Alternativa gratis a Spine: huesos, mallas con pesos, armado automático desde un PSD por capas y runtimes para Unity, Godot, Ren'Py, Phaser y más. Muy nuevo (oct-2026) |
+| **[iamgatz/Bone-2D](https://github.com/iamgatz/Bone-2D)** ⚠️ | 65 | 🛠️ otro | Editor de esqueletos 2D en el navegador, con mallas, IK y física, que guarda en formato Spine 4.3. Ojo: los runtimes oficiales de Spine piden licencia de Spine, así que sin pagar sirve para exportar GIF o sprite sheets |
 
 <details>
 <summary>📖 <b>Donchitos/Claude-Code-Game-Studios</b> — ficha completa</summary>
@@ -2513,6 +2515,30 @@ Cada semana aparecen en reels y videos decenas de «el repo que cambia todo». C
 ⭐ 7.9k · 🛠️ otro · 📄 MIT · 🐙 [GitHub](https://github.com/PWhiddy/PokemonRedExperiments)
 
 🎥 Visto en: [▶ Post de fotos: Volkan Erdogan](https://www.instagram.com/reel/DgDFRgujJJ0/)
+
+</details>
+<details>
+<summary>📖 <b>jaisurya-dev-art/rigby2d</b> — ficha completa</summary>
+
+**Qué hace:** Editor de animación 2D por esqueletos, gratis y libre: huesos, mallas con pesos, armado automático desde un PSD por capas y render a video. Exporta a Unity, Godot, Ren'Py, Defold, Cocos, Phaser y PixiJS con runtimes propios. Es muy nuevo (octubre de 2026).
+
+**Cómo se instala:** ver README
+
+**Requisitos:** Windows, macOS o Linux.
+
+⭐ 397 · 🛠️ otro · 📄 Apache-2.0. · 🌐 [web](—) · 🐙 [GitHub](https://github.com/jaisurya-dev-art/rigby2d)
+
+</details>
+<details>
+<summary>📖 <b>iamgatz/Bone-2D</b> — ficha completa</summary>
+
+**Qué hace:** Editor de animación por esqueletos que corre en el navegador: mallas con pesos, IK, física, importación de PSD y Krita, y exportación a Spine 4.3, GIF, video o sprite sheet. Los runtimes oficiales de Spine piden licencia de Spine, así que sin pagar conviene exportar GIF o sprite sheets.
+
+**Cómo se instala:** abrir la demo web (ver README)
+
+**Requisitos:** un navegador.
+
+⭐ 65 · 🛠️ otro · 📄 MIT. · 🌐 [web](—) · 🐙 [GitHub](https://github.com/iamgatz/Bone-2D)
 
 </details>
 
@@ -2692,7 +2718,7 @@ flowchart LR
 
 ## 🎥 Fuentes
 
-Gracias a quienes los mostraron primero: [@_mati.alvez](https://www.instagram.com/reel/DfXQZ2XxJDF/) · [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/) · [@_mati.alvez](https://www.instagram.com/reel/DgJShIVEjAJ/) · [@adriaestevez.ai](https://www.instagram.com/reel/DgF-WmdhRON/) · [@agustin.ruppel](https://www.instagram.com/reel/DeUP-4pl-9f/) · [@ai.lution](https://www.instagram.com/reel/DgFoJAKh1Yt/) · [@aldopaucaria](https://www.instagram.com/reel/Df41R_HpUxD/) · [@aldopaucaria](https://www.instagram.com/reel/DgOSnETAD2e/) · [@aldopaucaria](https://www.instagram.com/reel/Dfzrv8tDyCQ/) · [@aldopaucaria](https://www.instagram.com/reel/Df8RBPgjvTt/) · [@alexmcarrera](https://www.instagram.com/reel/DfnaTaqP7hY/) · [@andres.rodev](https://www.instagram.com/reel/DgMvxjBBzp1/) · [@antonspain_ia](https://www.instagram.com/reel/Df_pUWqHI1r/) · [@bencorde](https://www.instagram.com/reel/DgGhb2CMP5X/) · [@capazeroo](https://www.instagram.com/reel/DgF_fSFFUrD/) · [@carlosai_](https://www.instagram.com/reel/DfsULEPIpHe/) · [@codigollamingo](https://www.instagram.com/reel/DevZ0uRgiM5/) · [@cookin.code](https://www.instagram.com/reel/DgOY-7gCRHp/) · [@cromeda.studio](https://www.instagram.com/reel/DgE5qQSgOzx/) · [@danielsan_avila](https://www.instagram.com/reel/Df5jHKPqhQ8/) · [@duncanrogoff](https://www.instagram.com/reel/Df9VMkRiml0/) · [@frames.explains](https://www.instagram.com/reel/DgIoU8gj2Jr/) · [@francisco__miranda](https://www.instagram.com/reel/Df0kGBPMuUD/) · [@francisco__miranda](https://www.instagram.com/reel/DgLO-e7BPX5/) · [@gitrepo.es](https://www.instagram.com/reel/DfcBko1k1ND/) · [@gitrepo.es](https://www.instagram.com/reel/Df7kYBJCH9U/) · [@gitrepo.es](https://www.instagram.com/reel/DgN6duKpubf/) · [@gitrepo.es](https://www.instagram.com/reel/Df67F0rAplI/) · [@gitrepo.es](https://www.instagram.com/reel/DgNl9I8SkTc/) · [@gitrepo.es](https://www.instagram.com/reel/DgPhjBsxC5M/) · [@isa_marcial](https://www.instagram.com/reel/DgI_Zl7CdB2/) · [@jamesoceb](https://www.instagram.com/reel/DgK1_5MBjS_/) · [@jamessotovalle](https://www.instagram.com/reel/DgGZ0AIiY6I/) · [@jamessotovalle](https://www.instagram.com/reel/DgEa2GIxoyb/) · [@javiniguezoficial](https://www.instagram.com/reel/DZmxlSkKmbP/) · [@javiniguezoficial](https://www.instagram.com/reel/DfuTCPWKo21/) · [@javiniguezoficial](https://www.instagram.com/reel/DdbWmxmKjtO/) · [@javiniguezoficial](https://www.instagram.com/reel/DdBmsT-KOyp/) · [@joseaitomatik](https://www.instagram.com/reel/DgI33AHApDU/) · [@kspmn](https://www.instagram.com/reel/DgCnP-DRXBO/) · [@leodeverasoficial](https://www.instagram.com/reel/DgAsAxlh5JP/) · [@luatech.ia](https://www.instagram.com/reel/DfcOvgtFfn7/) · [@lucasns.ia](https://www.instagram.com/reel/DgLOP9IReeY/) · [@luis.gamingg](https://www.instagram.com/reel/DfYWF1Ixob3/) · [@lynxstudiosbcn](https://www.instagram.com/reel/DfvXi6KERBK/) · [@marcosdiaz.es](https://www.instagram.com/reel/DgLofkfRqE_/) · [@marketingaagency](https://www.instagram.com/reel/DgNlwPLhJsb/) · [@marketingaagency](https://www.instagram.com/reel/DgOV-ShBC6U/) · [@marketingaagency](https://www.instagram.com/reel/DgOeemthjk7/) · [@maximobrunosen6](https://www.instagram.com/reel/DedK_IRO0gE/) · [@maxjohnscn](https://www.instagram.com/reel/DgF95XQtfjU/) · [@midu.dev](https://www.instagram.com/reel/DfzxGd3AilI/) · [@midu.dev](https://www.instagram.com/reel/DeroLlfiFNh/) · [@mihad.builds](https://www.instagram.com/reel/Df-cDj_DFDc/) · [@motionreel.dev](https://www.instagram.com/reel/DgISEs0CQtX/) · [@mr.eflow](https://www.instagram.com/reel/DcZpxwhR7zG/) · [@nacho.mirandap](https://www.instagram.com/reel/DgOZeHMpFPI/) · [@nicoespinola.ai](https://www.instagram.com/reel/DgMCHsAieog/) · [@ninodirector](https://www.instagram.com/reel/DgApNlLhOTo/) · [@noticiasde.ia](https://www.instagram.com/reel/Df1iZaSOzvS/) · [@nycolabs](https://www.instagram.com/reel/DgJG294Fdcl/) · [@nzstudio__._](https://www.instagram.com/reel/Dft2BG2DQhE/) · [@orbit.builders](https://www.instagram.com/reel/DgG4rwDDUfe/) · [@orbit.builders](https://www.instagram.com/reel/DgItalQlCrA/) · [@oscarboix.ia](https://www.instagram.com/reel/DgF6775imXJ/) · [@pietrodrame.ai](https://www.instagram.com/reel/DgHzQqZs1wR/) · [@promptenespanol](https://www.instagram.com/reel/DgMFyXbvEBh/) · [@ramonibarra.k](https://www.instagram.com/reel/DgMC_R5jest/) · [@relyviews](https://www.instagram.com/reel/DffWecwjyDx/) · [@rogelioserrano.ai](https://www.instagram.com/reel/DgG3SRwBSyr/) · [@santiremedio](https://www.instagram.com/reel/DgGmnXhioeC/) · [@santiremedio](https://www.instagram.com/reel/Df8RKL_zqcw/) · [@santiremedio](https://www.instagram.com/reel/DgGnVrVipnq/) · [@santiremedio](https://www.instagram.com/reel/DgEDxdcTYRG/) · [@santiremedio](https://www.instagram.com/reel/DgOcY_ghiAJ/) · [@santiremedio](https://www.instagram.com/reel/DgOakTKxgjv/) · [@sergivalencia.ai](https://www.instagram.com/reel/DgH1xMDt6hN/) · [@silvesttre.ai](https://www.instagram.com/reel/DeWzrEvsgHN/) · [@soybrandux](https://www.instagram.com/reel/DgI54Ybqe0z/) · [@stj.taneja](https://www.instagram.com/reel/DgG34V_uEGZ/) · [@tecnologiadescubierta](https://www.instagram.com/reel/DgF27VxObEq/) · [@theneuraldrop](https://www.instagram.com/reel/DgKslRTScap/) · [@theneuraldrop](https://www.instagram.com/reel/DgFjAdakgOL/) · [@tiberiu.ai](https://www.instagram.com/reel/DgMhuT3I8kH/) · [@tinrovicai](https://www.instagram.com/reel/DgJTh-BhSeT/) · [@tivadarsimonai](https://www.instagram.com/reel/Df1xnHIDmT5/) · [@tobi.tecnologia](https://www.instagram.com/reel/DgMCH5HsBUO/) · [@ux.jonathan](https://www.instagram.com/reel/Dfp8ogTTqmi/) · [@visualizemy_](https://www.instagram.com/reel/DgLKy4hTAGZ/) · [▶ Claude Code Edits Your Videos Now — video-use (17.5K⭐ Git…](https://www.youtube.com/watch?v=TkjEZEA84Go) · [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM) · [▶ Post de fotos: Aashish Pahwa](https://www.instagram.com/reel/DfZZX4PExF5/) · [▶ Post de fotos: Aashish Pahwa](https://www.instagram.com/reel/DfjvOWBj9aC/) · [▶ Post de fotos: Altin Morina | Programming & Productivity](https://www.instagram.com/reel/DfrsUrYiPFW/) · [▶ Post de fotos: Cristian | News AI](https://www.instagram.com/reel/DgE57NGE3L5/) · [▶ Post de fotos: Falconi | AI Creativo](https://www.instagram.com/reel/Dfzx3AGjZFA/) · [▶ Post de fotos: Github Projects](https://www.instagram.com/reel/DfoioTRhRTr/) · [▶ Post de fotos: Ignacio Rodriguez | Agencias de IA](https://www.instagram.com/reel/Df2BpVhFlK2/) · [▶ Post de fotos: Madiyar Begenov | Tech, AI & Finance | Sha…](https://www.instagram.com/reel/DgAH1s2DREU/) · [▶ Post de fotos: Miss Dani AI](https://www.instagram.com/reel/Df-yWMimVsx/) · [▶ Post de fotos: Volkan Erdogan](https://www.instagram.com/reel/DgDFRgujJJ0/) · [▶ Probando Orca ADE: Cómo programar con MÚLTIPLES Agentes d…](https://www.youtube.com/watch?v=KbOKUlUd9mA)
+Gracias a quienes los mostraron primero: [@_mati.alvez](https://www.instagram.com/reel/DgESYOCNWwV/) · [@_mati.alvez](https://www.instagram.com/reel/DgJShIVEjAJ/) · [@_mati.alvez](https://www.instagram.com/reel/DfXQZ2XxJDF/) · [@adriaestevez.ai](https://www.instagram.com/reel/DgF-WmdhRON/) · [@agustin.ruppel](https://www.instagram.com/reel/DeUP-4pl-9f/) · [@ai.lution](https://www.instagram.com/reel/DgFoJAKh1Yt/) · [@aldopaucaria](https://www.instagram.com/reel/Dfzrv8tDyCQ/) · [@aldopaucaria](https://www.instagram.com/reel/Df41R_HpUxD/) · [@aldopaucaria](https://www.instagram.com/reel/DgOSnETAD2e/) · [@aldopaucaria](https://www.instagram.com/reel/Df8RBPgjvTt/) · [@alexmcarrera](https://www.instagram.com/reel/DfnaTaqP7hY/) · [@andres.rodev](https://www.instagram.com/reel/DgMvxjBBzp1/) · [@antonspain_ia](https://www.instagram.com/reel/Df_pUWqHI1r/) · [@bencorde](https://www.instagram.com/reel/DgGhb2CMP5X/) · [@capazeroo](https://www.instagram.com/reel/DgF_fSFFUrD/) · [@carlosai_](https://www.instagram.com/reel/DfsULEPIpHe/) · [@codigollamingo](https://www.instagram.com/reel/DevZ0uRgiM5/) · [@cookin.code](https://www.instagram.com/reel/DgOY-7gCRHp/) · [@cromeda.studio](https://www.instagram.com/reel/DgE5qQSgOzx/) · [@danielsan_avila](https://www.instagram.com/reel/Df5jHKPqhQ8/) · [@duncanrogoff](https://www.instagram.com/reel/Df9VMkRiml0/) · [@frames.explains](https://www.instagram.com/reel/DgIoU8gj2Jr/) · [@francisco__miranda](https://www.instagram.com/reel/DgLO-e7BPX5/) · [@francisco__miranda](https://www.instagram.com/reel/Df0kGBPMuUD/) · [@gitrepo.es](https://www.instagram.com/reel/Df7kYBJCH9U/) · [@gitrepo.es](https://www.instagram.com/reel/Df67F0rAplI/) · [@gitrepo.es](https://www.instagram.com/reel/DgN6duKpubf/) · [@gitrepo.es](https://www.instagram.com/reel/DgNl9I8SkTc/) · [@gitrepo.es](https://www.instagram.com/reel/DfcBko1k1ND/) · [@gitrepo.es](https://www.instagram.com/reel/DgPhjBsxC5M/) · [@isa_marcial](https://www.instagram.com/reel/DgI_Zl7CdB2/) · [@jamesoceb](https://www.instagram.com/reel/DgK1_5MBjS_/) · [@jamessotovalle](https://www.instagram.com/reel/DgGZ0AIiY6I/) · [@jamessotovalle](https://www.instagram.com/reel/DgEa2GIxoyb/) · [@javiniguezoficial](https://www.instagram.com/reel/DZmxlSkKmbP/) · [@javiniguezoficial](https://www.instagram.com/reel/DdbWmxmKjtO/) · [@javiniguezoficial](https://www.instagram.com/reel/DdBmsT-KOyp/) · [@javiniguezoficial](https://www.instagram.com/reel/DfuTCPWKo21/) · [@joseaitomatik](https://www.instagram.com/reel/DgI33AHApDU/) · [@kspmn](https://www.instagram.com/reel/DgCnP-DRXBO/) · [@leodeverasoficial](https://www.instagram.com/reel/DgAsAxlh5JP/) · [@luatech.ia](https://www.instagram.com/reel/DfcOvgtFfn7/) · [@lucasns.ia](https://www.instagram.com/reel/DgLOP9IReeY/) · [@luis.gamingg](https://www.instagram.com/reel/DfYWF1Ixob3/) · [@lynxstudiosbcn](https://www.instagram.com/reel/DfvXi6KERBK/) · [@marcosdiaz.es](https://www.instagram.com/reel/DgLofkfRqE_/) · [@marketingaagency](https://www.instagram.com/reel/DgNlwPLhJsb/) · [@marketingaagency](https://www.instagram.com/reel/DgOeemthjk7/) · [@marketingaagency](https://www.instagram.com/reel/DgOV-ShBC6U/) · [@maximobrunosen6](https://www.instagram.com/reel/DedK_IRO0gE/) · [@maxjohnscn](https://www.instagram.com/reel/DgF95XQtfjU/) · [@midu.dev](https://www.instagram.com/reel/DfzxGd3AilI/) · [@midu.dev](https://www.instagram.com/reel/DeroLlfiFNh/) · [@mihad.builds](https://www.instagram.com/reel/Df-cDj_DFDc/) · [@motionreel.dev](https://www.instagram.com/reel/DgISEs0CQtX/) · [@mr.eflow](https://www.instagram.com/reel/DcZpxwhR7zG/) · [@nacho.mirandap](https://www.instagram.com/reel/DgOZeHMpFPI/) · [@nicoespinola.ai](https://www.instagram.com/reel/DgMCHsAieog/) · [@ninodirector](https://www.instagram.com/reel/DgApNlLhOTo/) · [@noticiasde.ia](https://www.instagram.com/reel/Df1iZaSOzvS/) · [@nycolabs](https://www.instagram.com/reel/DgJG294Fdcl/) · [@nzstudio__._](https://www.instagram.com/reel/Dft2BG2DQhE/) · [@orbit.builders](https://www.instagram.com/reel/DgG4rwDDUfe/) · [@orbit.builders](https://www.instagram.com/reel/DgItalQlCrA/) · [@oscarboix.ia](https://www.instagram.com/reel/DgF6775imXJ/) · [@pietrodrame.ai](https://www.instagram.com/reel/DgHzQqZs1wR/) · [@promptenespanol](https://www.instagram.com/reel/DgMFyXbvEBh/) · [@ramonibarra.k](https://www.instagram.com/reel/DgMC_R5jest/) · [@relyviews](https://www.instagram.com/reel/DffWecwjyDx/) · [@rogelioserrano.ai](https://www.instagram.com/reel/DgG3SRwBSyr/) · [@santiremedio](https://www.instagram.com/reel/DgGnVrVipnq/) · [@santiremedio](https://www.instagram.com/reel/DgOakTKxgjv/) · [@santiremedio](https://www.instagram.com/reel/DgGmnXhioeC/) · [@santiremedio](https://www.instagram.com/reel/Df8RKL_zqcw/) · [@santiremedio](https://www.instagram.com/reel/DgEDxdcTYRG/) · [@santiremedio](https://www.instagram.com/reel/DgOcY_ghiAJ/) · [@sergivalencia.ai](https://www.instagram.com/reel/DgH1xMDt6hN/) · [@silvesttre.ai](https://www.instagram.com/reel/DeWzrEvsgHN/) · [@soybrandux](https://www.instagram.com/reel/DgI54Ybqe0z/) · [@stj.taneja](https://www.instagram.com/reel/DgG34V_uEGZ/) · [@tecnologiadescubierta](https://www.instagram.com/reel/DgF27VxObEq/) · [@theneuraldrop](https://www.instagram.com/reel/DgKslRTScap/) · [@theneuraldrop](https://www.instagram.com/reel/DgFjAdakgOL/) · [@tiberiu.ai](https://www.instagram.com/reel/DgMhuT3I8kH/) · [@tinrovicai](https://www.instagram.com/reel/DgJTh-BhSeT/) · [@tivadarsimonai](https://www.instagram.com/reel/Df1xnHIDmT5/) · [@tobi.tecnologia](https://www.instagram.com/reel/DgMCH5HsBUO/) · [@ux.jonathan](https://www.instagram.com/reel/Dfp8ogTTqmi/) · [@visualizemy_](https://www.instagram.com/reel/DgLKy4hTAGZ/) · [▶ Claude Code Edits Your Videos Now — video-use (17.5K⭐ Git…](https://www.youtube.com/watch?v=TkjEZEA84Go) · [▶ Orca: la app open source que une TODOS tus agentes de IA …](https://www.youtube.com/watch?v=ze7AgvWfRwM) · [▶ Post de fotos: Aashish Pahwa](https://www.instagram.com/reel/DfZZX4PExF5/) · [▶ Post de fotos: Aashish Pahwa](https://www.instagram.com/reel/DfjvOWBj9aC/) · [▶ Post de fotos: Altin Morina | Programming & Productivity](https://www.instagram.com/reel/DfrsUrYiPFW/) · [▶ Post de fotos: Cristian | News AI](https://www.instagram.com/reel/DgE57NGE3L5/) · [▶ Post de fotos: Falconi | AI Creativo](https://www.instagram.com/reel/Dfzx3AGjZFA/) · [▶ Post de fotos: Github Projects](https://www.instagram.com/reel/DfoioTRhRTr/) · [▶ Post de fotos: Ignacio Rodriguez | Agencias de IA](https://www.instagram.com/reel/Df2BpVhFlK2/) · [▶ Post de fotos: Madiyar Begenov | Tech, AI & Finance | Sha…](https://www.instagram.com/reel/DgAH1s2DREU/) · [▶ Post de fotos: Miss Dani AI](https://www.instagram.com/reel/Df-yWMimVsx/) · [▶ Post de fotos: Volkan Erdogan](https://www.instagram.com/reel/DgDFRgujJJ0/) · [▶ Probando Orca ADE: Cómo programar con MÚLTIPLES Agentes d…](https://www.youtube.com/watch?v=KbOKUlUd9mA)
 
 <p align="center"><img src="assets/divisor.svg" width="100%"></p>
 

@@ -10,7 +10,7 @@
 <g class="card" style="animation-delay:0.15s">
   <rect x="24" y="18" width="270" height="114" rx="18" fill="#0f172a" stroke="#a78bfa" stroke-opacity=".55"/>
   <rect x="24" y="18" width="270" height="114" rx="18" fill="none" stroke="#a78bfa" stroke-width="2" class="shine" style="animation-delay:0.75s"/>
-  <text x="159" y="82" text-anchor="middle" class="num" fill="#a78bfa">151</text>
+  <text x="159" y="82" text-anchor="middle" class="num" fill="#a78bfa">153</text>
   <text x="159" y="112" text-anchor="middle" class="lbl">repos</text>
 </g>
 <g class="card" style="animation-delay:0.33s">
